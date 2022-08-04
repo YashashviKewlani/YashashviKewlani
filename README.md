@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashashvi Kewlani</h1>
-<h3 align="center">A passionate JavaScript Intrepid from India</h3>
+<h3 align="center">A passionate Laravel Intrepid from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashashvikewlani&label=Profile%20views&color=0e75b6&style=flat" alt="yashashvikewlani" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Forkify App**
 
-- 🌱 I’m currently learning **Advanced JavaScript**
+- 🌱 I’m currently learning **Laravel and Advanced JavaScript**
 
-- 💬 Ask me about **JavaScript, Java**
+- 💬 Ask me about **,Laravel, PHP, JavaScript, Java**
 
 - 📫 How to reach me **yashashvi1529@gmail.com**
 
